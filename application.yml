@@ -1,1 +1,2 @@
-data.archive.service.uri = http://data-archive-service/api/data/
+data.archive.service.uri: http://data-archive-service/api/data/
+my.conf: githello
