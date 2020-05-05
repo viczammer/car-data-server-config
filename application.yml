@@ -1,2 +1,2 @@
-data.archive.service.uri: http://data-archive-service/internal/archive
-data.processing.service.uri: http://data-processing-service/internal/process
+data.archive.service.uri: http://data-archive-service/internal/archive/
+data.processing.service.uri: http://data-processing-service/internal/process/
